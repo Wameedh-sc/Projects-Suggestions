@@ -15,7 +15,7 @@ The biggest point of this repository is to show what different technologies exis
 ## Internet Of Things:
 - Room Access Control System with ESP32
 - Weather Station with ESP32
-- GPS Tracker with ESP3@
+- GPS Tracker with ESP32
 
 ## FPGA:
 - Matrix multiplication with VHDL
