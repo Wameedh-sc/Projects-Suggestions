@@ -11,6 +11,7 @@ The biggest point of this repository is to show what different technologies exis
 - Robotic Arm
 - [Gaze Controlled Robot](https://github.com/cyliakh/Gaze-controlled-robot/blob/main/README.md)
 - Solar Tracker
+- Stepper motor music setup (make music through motor vibrations)
 
 ## Internet Of Things:
 - Room Access Control System with ESP32
@@ -26,4 +27,9 @@ The biggest point of this repository is to show what different technologies exis
 - Automate sending emails with Python
 - QR Code Scanner to mark attendance
 - Youtube Video Downloader with Python (Youtube downloaders software all suck dont they ? make your own)
+
+## Power Electronics
+- Electronic load circuit (electronically controller resistor) using linear power mosfets.
+- Visualizing the hysterisis loop of a given ferromagnetic core  (hysterisis loop) (bonus: deducing the saturation current, hysterisis losses, and eddy losses)
+- [Empirical state of charge monitoring for Lead-Acid and Li-Ion batteries](https://github.com/AHZ456/BatteryM).
 
