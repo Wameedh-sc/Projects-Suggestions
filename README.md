@@ -18,6 +18,14 @@ The biggest point of this repository is to show what different technologies exis
 - Weather Station with ESP32
 - GPS Tracker with ESP32
 
+## Artificial Intelligence & Deep Learning:
+- Emotion Recognition
+- Chatbot
+- Face Recognition System
+- Plant Ripening Detection
+- Sign Language Translator
+- Voice Cloner
+
 ## FPGA:
 - Matrix multiplication with VHDL
 - Send data from FPGA to Arduino with serial communication
