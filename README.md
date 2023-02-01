@@ -10,7 +10,7 @@ The biggest point of this repository is to show what different technologies exis
 - Self Balancing Robot
 - Robotic Arm
 - [Gaze Controlled Robot](https://github.com/cyliakh/Gaze-controlled-robot/blob/main/README.md)
-- Solar Tracker
+- [Solar Tracker](https://github.com/AHZ456/Solar-Tracker-Project)
 - Stepper motor music setup (make music through motor vibrations)
 
 ## Internet Of Things:
@@ -37,7 +37,7 @@ The biggest point of this repository is to show what different technologies exis
 - Youtube Video Downloader with Python (Youtube downloaders software all suck dont they ? make your own)
 
 ## Power Electronics
-- Electronic load circuit (electronically controller resistor) using linear power mosfets.
 - Visualizing the hysterisis loop of a given ferromagnetic core (bonus: deducing the saturation current, hysterisis losses, and eddy losses)
+- Electronic load circuit (electronically controller resistor) using linear power mosfets.
 - [Empirical state of charge monitoring for Lead-Acid and Li-Ion batteries](https://github.com/AHZ456/BatteryM).
 
