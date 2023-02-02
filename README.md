@@ -38,6 +38,6 @@ The biggest point of this repository is to show what different technologies exis
 
 ## Power Electronics
 - Visualizing the hysterisis loop of a given ferromagnetic core (bonus: deducing the saturation current, hysterisis losses, and eddy losses)
-- Electronic load circuit (electronically controller resistor) using linear power mosfets.
+- Electronic load circuit (electronically controlled resistor) using linear power mosfets.
 - [Empirical state of charge monitoring for Lead-Acid and Li-Ion batteries](https://github.com/AHZ456/BatteryM).
 
