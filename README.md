@@ -26,6 +26,9 @@ The biggest point of this repository is to show what different technologies exis
 - Sign Language Translator
 - Voice Cloner
 
+## Computer Vision:
+- [Gesture Controlled Virtual Mouse](https://github.com/cyliakh/Gesture-Controlled-Virtual-Mouse)
+
 ## FPGA:
 - Matrix multiplication with VHDL
 - Send data from FPGA to Arduino with serial communication
